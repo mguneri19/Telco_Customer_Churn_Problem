@@ -2,13 +2,13 @@
 
 ## 📊 Proje Hakkında
 
-Bu proje, telekomünikasyon şirketinin müşteri kaybını (churn) tahmin etmek için makine öğrenmesi modelleri geliştirmeyi amaçlamaktadır. Proje kapsamlı bir veri analizi, özellik mühendisliği ve model optimizasyonu sürecini içermektedir.
+Bu proje, bir telekomünikasyon şirketinin müşteri kaybını (churn) tahmin etmek için makine öğrenmesi modelleri geliştirmeyi amaçlamaktadır. Proje kapsamlı bir veri analizi, özellik mühendisliği ve model optimizasyonu sürecini içermektedir.
 
 ## 🎯 Problem Tanımı
 
 **Problem**: Şirketi terk edecek müşterileri tahmin edebilecek bir makine öğrenmesi modeli geliştirmek.
 
-**Veri Seti**: Telco müşteri churn verileri, üçüncü çeyrekte Kaliforniya'daki 7,043 müşteriye ev telefonu ve İnternet hizmetleri sağlayan hayali bir telekom şirketi hakkında bilgi içerir.
+**Veri Seti**: Telekomünikasyon müşteri churn (müşteri-terk) verileri, üçüncü çeyrekte 7,043 müşteriye ev telefonu ve İnternet hizmetleri sağlayan hayali bir telekom şirketi hakkında bilgi içerir.
 
 ## 📈 Veri Seti Özellikleri
 
