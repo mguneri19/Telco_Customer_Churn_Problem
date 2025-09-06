@@ -20,7 +20,7 @@ Proje İçeriği:
 Problem : Şirketi terk edecek müşterileri tahmin edebilecek bir makine öğrenmesi modeli geliştirmek.
 Modeli geliştirmeden önce gerekli olan veri analizi ve özellik mühendisliği adımları yapılacak.
 
-Telco müşteri churn verileri, üçüncü çeyrekte Kaliforniya'daki 7043 müşteriye
+Telecom şirketi müşteri churn verileri, üçüncü çeyrekte 7043 müşteriye
 ev telefonu ve İnternet hizmetleri sağlayan hayali bir telekom şirketi hakkında bilgi içerir.
 
 Hangi müşterilerin hizmetlerinden ayrıldığını, kaldığını veya hizmete kaydolduğunu içermektedir.
