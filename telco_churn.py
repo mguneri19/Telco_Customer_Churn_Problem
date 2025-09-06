@@ -1,5 +1,5 @@
 """
-Telco Customer Churn Prediction
+A Telecom Company - Customer Churn Prediction
 ================================
 
 Bu proje, telekomünikasyon şirketinin müşteri kaybını (churn) tahmin etmek için 
