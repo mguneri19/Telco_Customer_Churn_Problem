@@ -1,4 +1,4 @@
-# Telco Customer Churn Prediction
+# A Telecom Company Customer Churn Prediction
 
 ## 📊 Proje Hakkında
 
